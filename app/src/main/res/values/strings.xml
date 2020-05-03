@@ -2,5 +2,5 @@
     <string name="app_name">Identifier</string>
     <string name="toggle_camera">Toggle Camera</string>
     <string name="detect_object">Detect</string>
-    <string name="todo">Display captured image</string>
+    <string name="todo">Displays captured image</string>
 </resources>
